@@ -1,0 +1,13 @@
+package file.handling.java.com;
+
+import java.io.File;
+
+
+public  abstract class FileReaderab 
+{
+	
+
+	public abstract void fileread(File file); 
+	
+
+}

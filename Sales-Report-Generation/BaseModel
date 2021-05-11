@@ -1,0 +1,7 @@
+package sales.report.java.com;
+
+public interface Basemodel {
+
+	
+
+}

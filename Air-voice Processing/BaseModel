@@ -1,0 +1,7 @@
+package airvoice.java.streams.com;
+
+public interface BaseClass {
+
+	
+
+}

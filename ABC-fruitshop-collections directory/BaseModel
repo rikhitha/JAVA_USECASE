@@ -1,0 +1,7 @@
+package fruitshop.collections.java.com;
+
+public interface BaseModel {
+
+	
+
+}
